@@ -1,0 +1,46 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.mainheader{
+    background-color: rgb(65, 128, 60);
+    width: 50%;
+     height: 90px;
+     display: flex;
+    
+        justify-content: space-between;
+     align-items: center;
+}
+.mainheader .logo img{
+        width: 520px; height:80px;
+    padding-left: 200px;
+}
+.mainheader nav{
+    color: red;
+    width: 400px;
+     display: flex;
+     justify-content:space-between;
+     justify-content: space-around;
+    
+ 
+}
+.mainheader nav a{
+    font-size: large;
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    font-family: 'Poppins', sans-serif;
+}
+.mid{
+    padding-left: 700px;
+    height: 500px;
+    background-color: rgb(250, 236, 236);
+    padding-top: 50px;
+}
+.welcome{
+    font-size: x-large;
+    color:red;
+    padding-left: 700px;
+    padding-top: 20px;
+}
+    
