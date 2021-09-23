@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+.page8 {
+    background-color: #FFCC57;
+    text-align: center;
+
+}
+.page8 nav{
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+.page8 nav a{
+    color: black;
+     margin-left: 50px;
+     text-decoration: none;
+     font-size: large;
+}
+
+.contacts{
+    background-color:  #FEFCD6 ;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+.detail{
+    display: flex;
+    width: 100%;
+    height: 63vh;
+    background-color:  #F8F6DE  ;
+}
+.adrs{
+        font-family: 'Poppins', sans-serif;
+    padding-left: 200px;
+}
+.contact-no{
+
+    font-family: 'Poppins', sans-serif;
+    padding-left: 200px;
+}
+.contact-no, a{
+    color: black;
+    text-decoration: none;
+}
+.gmail{
+   
+    font-family: 'Poppins', sans-serif;
+    padding-left: 200px;
+}
+.files{ border-style: dotted;
+    width: 120%;
+    height: 400px;
+    background-color: #FAF9EA;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 200px;
+    padding-top: 20px;
+    margin-left: 20px;
+    
+}
+.lastitem{
+    
+    text-align: center;
+    height: 10vh;
+    color:white;
+    background-color: black;
+}
